@@ -23,13 +23,13 @@
 define( 'DB_NAME', 'maianh_blog' );
 
 /** MySQL database username */
-define( 'DB_USER', 'sonic' );
+define( 'DB_USER', 'aws_sonic' );
 
 /** MySQL database password */
 define( 'DB_PASSWORD', 'sonic20120355' );
 
 /** MySQL hostname */
-define( 'DB_HOST', 'maianh-blog.c5rjhz1tvd0b.us-east-1.rds.amazonaws.com' );
+define( 'DB_HOST', 'aws-sonic.citqh16vlwpw.ap-northeast-1.rds.amazonaws.com' );
 
 
 /** Database Charset to use in creating database tables. */
